@@ -1,2 +1,0 @@
-# Nickerator
-Nickname Generator
